@@ -1,0 +1,39 @@
+Training generation 0
+Average accuracy : 0.31674418969209805
+Top 3 nets: 0.5720930293548939 0.5581395237944847 0.525581429864085
+Testing and building new generations
+Training generation 1
+Average accuracy : 0.33906977204389344
+Top 3 nets: 0.5674418709998907 0.5581395237944847 0.5209302715090818
+Testing and building new generations
+Training generation 2
+Average accuracy : 0.3539534915325253
+Top 3 nets: 0.5534883806871813 0.5302325376244479 0.525581429864085
+Testing and building new generations
+Training generation 3
+Average accuracy : 0.34976744894371475
+Top 3 nets: 0.5627906904664151 0.525581429864085 0.525581429864085
+Testing and building new generations
+Training generation 4
+Average accuracy : 0.3637209388405777
+Top 3 nets: 0.5813953529956729 0.5488372514414233 0.5302325889121654
+Testing and building new generations
+Training generation 5
+Average accuracy : 0.32651163485161094
+Top 3 nets: 0.5674418709998907 0.544186063977175 0.525581429864085
+Testing and building new generations
+Training generation 6
+Average accuracy : 0.365581402944964
+Top 3 nets: 0.627906973971877 0.5255814305571622 0.525581429864085
+Testing and building new generations
+Training generation 7
+Average accuracy : 0.3176744281552558
+Top 3 nets: 0.5534884042518083 0.5395349056221718 0.525581429864085
+Testing and building new generations
+Training generation 8
+Average accuracy : 0.3023255795933479
+Top 3 nets: 0.5674418488214182 0.5348837243956189 0.5255813792694447
+Testing and building new generations
+Training generation 9
+Average accuracy : 0.3372093124445094
+Top 3 nets: 0.5953488363776096 0.5302326180214105 0.525581429864085

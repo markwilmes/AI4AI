@@ -1,0 +1,47 @@
+2018-12-09 15:19:45.057573: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/keras/_impl/keras/backend.py:3342: calling l2_normalize (from tensorflow.python.ops.nn_impl) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+2018-12-09 15:39:08.519056: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/keras/_impl/keras/backend.py:3342: calling l2_normalize (from tensorflow.python.ops.nn_impl) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+Training generation 0
+Average accuracy : 0.6586046654557766
+Top 3 nets: 0.6604651198830715 0.6232558377953463 0.6000000238418579
+Testing and building new generations
+Training generation 1
+Average accuracy : 0.7265116394259208
+Top 3 nets: 0.6790697754815568 0.6232557934384013 0.5860465265983759
+Testing and building new generations
+Training generation 2
+Average accuracy : 0.6609302427879598
+Top 3 nets: 0.6000000238418579 0.5906976918841518 0.5627907043279603
+Testing and building new generations
+Training generation 3
+Average accuracy : 0.770232566913893
+Top 3 nets: 0.6465116226395895 0.6372093059295831 0.6186046350833981
+Testing and building new generations
+Training generation 4
+Average accuracy : 0.7451163000145623
+Top 3 nets: 0.6372093350388283 0.6093023627303368 0.6000000238418579
+Testing and building new generations
+Training generation 5
+Average accuracy : 0.7679069950137027
+Top 3 nets: 0.6744185949480811 0.6139534989068675 0.5953488807345546
+Testing and building new generations
+Training generation 6
+Average accuracy : 0.757209319292113
+Top 3 nets: 0.6372093128603559 0.6093023405518643 0.5674418779306634
+Testing and building new generations
+Training generation 7
+Average accuracy : 0.7600000148595765
+Top 3 nets: 0.6186046794403431 0.6046511669491612 0.6000000307726305
+Testing and building new generations
+Training generation 8
+Average accuracy : 0.7837209411138713
+Top 3 nets: 0.6279069961503495 0.6232558308645736 0.5813953308172004
+Testing and building new generations
+Training generation 9
+Average accuracy : 0.7934883913328481
+Top 3 nets: 0.6279069961503495 0.6000000390895578 0.5860465709553209
